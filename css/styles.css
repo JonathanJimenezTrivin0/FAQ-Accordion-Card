@@ -201,7 +201,7 @@ body {
     }
 
     50% {
-      opacity: 0.5;
+      opacity: 0.2;
       transform: translateY(63px);
     }
     100% {
